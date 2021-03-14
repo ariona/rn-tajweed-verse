@@ -1,0 +1,17 @@
+{
+  "name": "rn-tajweed-verse",
+  "description": "React Native component for parsing Quran Tajweed Verses into color coded text",
+  "author": "ariona",
+  "version": "1.0.0",
+  "main": "src/TajweedVerse.jsx",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-parsed-text": "0.0.20"
+  },
+  "keywords": [
+    "react-native",
+    "tajweed",
+    "quran"
+  ],
+  "repository": "https://github.com/ariona/rn-tajweed-verse.git"
+}
